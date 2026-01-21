@@ -1,4 +1,4 @@
-# Hi there 👋, I'm William Wang
+# Hi, I'm William Wang👋
 
 My work focuses on 3D Vision and Image Generation.
 
