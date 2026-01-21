@@ -10,6 +10,9 @@ My work focuses on 3D Vision and Image Generation.
 - 3D Vision: Neural Rendering (3DGS/NeRF) & 3D Reconstruction.
 - Image Generation: Controllable Synthesis & Generative Models.
 
+📫 Contact
+ - Email: wangluo2025@shanghaitech.edu.cn
+
 <!---
 wangluo666/wangluo666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
