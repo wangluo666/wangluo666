@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @wangluo666
-- 👀 I’m interested in the knowledge and culture of Earthlings.
-- 🌱 I’m currently learning how to sleep.
-- 💞️ I’m looking to collaborate on “treat me to a meal”.
-- 📫 You can reach me by sending me a dream message.
-- 😄 Pronouns: -1.
-- ⚡ Fun fact: I can walk, talk, and write like humans. Plus, I’ve graduated from kindergarten!
+# Hi there 👋, I'm William Wang
 
+My work focuses on 3D Vision and Image Generation.
 
+🎓 Education
+- M.S. in Computer Science, ShanghaiTech University, 2025 – Present
+- B.S. in Computer Science, ShanghaiTech University, 2021 – 2025
+
+🔍 Research Interests
+- 3D Vision: Neural Rendering (3DGS/NeRF) & 3D Reconstruction.
+- Image Generation: Controllable Synthesis & Generative Models.
 
 <!---
 wangluo666/wangluo666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
